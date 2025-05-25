@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Vyom Pant
 
-Welcome to my little corner of the internet! I'm Vyom Pant, a student at NIT Hamirpur, and I'm stoked to be here!<br>Here, I'll be sharing my projects and learning journey with machine learning and other relevant technologies.Right now, it's machine learning or bust - everyone's doing machine learning these days... even my grandpa (okay, maybe not him, but you get the idea).<br><br>P.S. When I'm not coding, I'm probably shooting hoops on the court or strumming out a power chord on my guitar 😉.
+Welcome to my little corner of the internet! I'm a student at NIT Hamirpur, and I'm stoked to be here!<br>Here, I'll be sharing my projects and learning journey with machine learning and other relevant technologies.Right now, it's machine learning or bust - everyone's doing machine learning these days... even my grandpa (okay, maybe not him, but you get the idea).<br><br>P.S. When I'm not coding, I'm probably shooting hoops on the court or strumming out a power chord on my guitar 😉.
 
 
 ## 🌐 Socials:
