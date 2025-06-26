@@ -1,5 +1,5 @@
 ## Sup, I'm Vyom
-# CSE student @ NIT Hamirpur, India
+CSE student @ NIT Hamirpur, India<br>
 Here, I'll be sharing my projects and learning journey with different technologies, especially machine learning. <br>PS Right now, it's machine learning or bust - everyone's doing machine learning these days... even my grandpa (okay, maybe not him, but you get the idea).<br>
 
 ## 🌐 Socials:
