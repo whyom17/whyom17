@@ -2,13 +2,7 @@
 CSE student @ NIT Hamirpur, India<br>
 Here, I'll be sharing my projects and learning journey with different technologies, especially machine learning. <br>Started with some Web Dev stuff, but now I'm way more into Machine Learning and Deep Learning — especially **Computer Vision**👁️. <br>
 
-## My Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vyom-pant) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:whyom17@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vyom.pant) 
-
-# My Tech Stack:
-
-###
-
+## My Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -63,5 +57,7 @@ Here, I'll be sharing my projects and learning journey with different technologi
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
 </div>
 
-###
+## My Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vyom-pant) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:whyom17@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vyom.pant) 
 
+###
