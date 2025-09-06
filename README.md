@@ -1,6 +1,6 @@
 ## Sup, I'm Vyom
 CSE student @ NIT Hamirpur, India<br>
-Here, I'll be sharing my projects and learning journey with different technologies, especially machine learning. <br>Started with some Web Dev stuff, but now I'm way more into Machine Learning and Deep Learning — especially **Computer Vision**👁️. <br>
+Here, I'll be sharing my projects and learning journey with different technologies, especially machine learning. <br>Started with some Web Dev stuff, but now I'm way more into Machine Learning and Deep Learning - especially **Computer Vision**👁️. <br>
 
 ## My Tech Stack:
 <div align="left">
